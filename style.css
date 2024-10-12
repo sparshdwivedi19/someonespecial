@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(231, 185, 208);
+}
+
+#front{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+#front div{
+    height: 80%;
+}
+.scroll{
+    display: flex;
+    align-items: center;
+    font-size: xx-large; 
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(235, 170, 206);
+    margin: 50px 0px 60px 0px;
+}
+.heartanimation{
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.heartanimation video{
+    margin: 0px 0px 71px 40px;
+    height: 30%; 
+    width: 50%;
+}
+.heartanimation img{
+    margin: 0px 0px 8px 207px;
+    height: 50%;
+    width: 45%;
+}
+.proposal{
+    display: flex;
+    justify-content: space-around;
+  
+    text-align: center;
+    font-size: xx-large;
+    background-color: rgb(235, 170, 206);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#6b2a2a;
+}
